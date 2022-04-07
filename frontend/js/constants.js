@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the IEforex NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The IEForex NFT Project is a Brand new funded trader program where NFT holders get exclusive benefits compared to non NFT holders';
+const welcome_p = 'The IEForex NFT Project is a utility based NFT which gives exclusive benefits to NFT holders for our upcoming IEforex website, including but not limited to funded trader program, forex courses, mentorship, signals and discounts for all merchandise and products.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
